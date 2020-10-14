@@ -38,8 +38,8 @@
 
 ## :bar_chart: &nbsp; My GitHub Stats
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=nandan-unni&show_icons=true&theme=algolia&hide_border=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandan-unni&theme=algolia&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandan-unni&show_icons=true&theme=algolia&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandan-unni&theme=algolia&layout=compact" />
 </p><br /><hr />
 
 <h2 align="center"> :arrow_down: :arrow_down_small: &nbsp; Some of my projects &nbsp; :arrow_down_small: :arrow_down: </h2>
