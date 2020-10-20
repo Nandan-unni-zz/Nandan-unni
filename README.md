@@ -6,8 +6,11 @@
 </p><br />
 
 <p> :satellite: &nbsp; I'm currently working on an 
-    <a href="https://github.com/nandan-unni/instagram-api-clone">Instagram API Clone Project</a> 
+    <b><a href="https://github.com/nandan-unni/instagram-api-clone">Instagram API Clone</a> Project</b> 
     using <b>Django Rest Framework</b>
+</p>
+
+<p> :seedling: &nbsp; I'm currently learning Data Structures, Algorithms and REST API Testing
 </p>
 
 <p> :gem: &nbsp; Ask me about &nbsp; 
@@ -28,13 +31,13 @@
 <p> :postbox: &nbsp; Contact Me : &nbsp; 
     <a href ="mailto:asnqln@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/.-asnqln@gmail.com-red?logo=gmail&style=flat" />
     </a> &nbsp; 
-    <a href ="https://www.instagram.com/u.n.n.i._"><img alt="Instagram" src="https://img.shields.io/badge/.-@u.n.n.i.__-darkmagenta?logo=instagram&style=flat" />
+    <a href ="https://www.instagram.com/u.n.n.i._"><img alt="Instagram" src="https://img.shields.io/badge/.-u.n.n.i.__-darkmagenta?logo=instagram&style=flat" />
     </a> &nbsp; 
-    <a href ="https://twitter.com/nandanunni"><img alt="Twitter" src="https://img.shields.io/badge/.-@nandanunni-dodgerblue?logo=twitter&style=flat" />
+    <a href ="https://twitter.com/asnandanunni"><img alt="Twitter" src="https://img.shields.io/badge/.-asnandanunni-dodgerblue?logo=twitter&style=flat" />
     </a> &nbsp; 
-    <a href ="http://www.linkedin.com/in/nandanunni-a-s-258b10193"><img alt="LinkedIn" src="https://img.shields.io/badge/.-nandanunni--a--s--258b10193-blue?logo=linkedin&style=flat" />
+    <a href ="http://www.linkedin.com/in/nandanunni"><img alt="LinkedIn" src="https://img.shields.io/badge/.-nandanunni-blue?logo=linkedin&style=flat" />
     </a> &nbsp; 
-</p><br />
+</p>
 
 ## :bar_chart: &nbsp; My GitHub Stats
 <p align="center">
