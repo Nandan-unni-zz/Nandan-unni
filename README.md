@@ -14,28 +14,28 @@
 </p>
 
 <p> :gem: &nbsp; Ask me about &nbsp; 
-    <img src="https://img.shields.io/badge/.-Django-darkgreen?logo=django&style=flat" alt="Django" /> &nbsp; and &nbsp; 
-    <img src="https://img.shields.io/badge/.-Python-blue?logo=python&style=flat" alt="Python" />
+    <img src="https://img.shields.io/badge/%AD-Django-darkgreen?logo=django&style=flat" alt="Django" /> &nbsp; and &nbsp; 
+    <img src="https://img.shields.io/badge/%AD-Python-blue?logo=python&style=flat" alt="Python" />
 </p>
 
 <p> :fire: &nbsp; I'm good at &nbsp; 
-    <img src="https://img.shields.io/badge/.-JavaScript-yellow?logo=javascript&style=flat" alt="JavaScript" /> &nbsp; 
-    <img src="https://img.shields.io/badge/.-React-skyblue?logo=react&style=flat" alt="React" /> &nbsp; 
-    <img src="https://img.shields.io/badge/.-Go-blue?logo=go&style=flat" alt="Go" /> &nbsp; 
-    <img src="https://img.shields.io/badge/.-C%2B%2B-mediumvioletred?logo=c%2B%2B&style=flat" alt="C++" /> &nbsp; 
-    <img src="https://img.shields.io/badge/.-C-darkblue?logo=c&style=flat" alt="C" /> :black_small_square::black_small_square::black_small_square:
+    <img src="https://img.shields.io/badge/%AD-JavaScript-yellow?logo=javascript&style=flat" alt="JavaScript" /> &nbsp; 
+    <img src="https://img.shields.io/badge/%AD-React-skyblue?logo=react&style=flat" alt="React" /> &nbsp; 
+    <img src="https://img.shields.io/badge/%AD-Go-blue?logo=go&style=flat" alt="Go" /> &nbsp; 
+    <img src="https://img.shields.io/badge/%AD-C%2B%2B-mediumvioletred?logo=c%2B%2B&style=flat" alt="C++" /> &nbsp; 
+    <img src="https://img.shields.io/badge/%AD-C-darkblue?logo=c&style=flat" alt="C" />
 </p>
 
 <p> :smile: &nbsp; Fun Fact : &nbsp; I love building &nbsp; :hammer_and_wrench: APIs :heart:</p>
 
 <p> :postbox: &nbsp; Contact Me : &nbsp; 
-    <a href ="mailto:asnqln@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/.-asnqln@gmail.com-red?logo=gmail&style=flat" />
+    <a href ="mailto:asnqln@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/%AD-asnqln@gmail.com-red?logo=gmail&style=flat" />
     </a> &nbsp; 
-    <a href ="https://www.instagram.com/u.n.n.i._"><img alt="Instagram" src="https://img.shields.io/badge/.-u.n.n.i.__-darkmagenta?logo=instagram&style=flat" />
+    <a href ="https://www.instagram.com/u.n.n.i._"><img alt="Instagram" src="https://img.shields.io/badge/%AD-u.n.n.i.__-darkmagenta?logo=instagram&style=flat" />
     </a> &nbsp; 
-    <a href ="https://twitter.com/asnandanunni"><img alt="Twitter" src="https://img.shields.io/badge/.-asnandanunni-dodgerblue?logo=twitter&style=flat" />
+    <a href ="https://twitter.com/asnandanunni"><img alt="Twitter" src="https://img.shields.io/badge/%AD-asnandanunni-dodgerblue?logo=twitter&style=flat" />
     </a> &nbsp; 
-    <a href ="http://www.linkedin.com/in/nandanunni"><img alt="LinkedIn" src="https://img.shields.io/badge/.-nandanunni-blue?logo=linkedin&style=flat" />
+    <a href ="http://www.linkedin.com/in/nandanunni"><img alt="LinkedIn" src="https://img.shields.io/badge/%AD-nandanunni-blue?logo=linkedin&style=flat" />
     </a> &nbsp; 
 </p>
 
