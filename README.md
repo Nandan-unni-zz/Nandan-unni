@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/%AD-React-skyblue?logo=react&style=flat" alt="React" /> &nbsp; 
     <img src="https://img.shields.io/badge/%AD-Go-blue?logo=go&style=flat" alt="Go" /> &nbsp; 
     <img src="https://img.shields.io/badge/%AD-C%2B%2B-mediumvioletred?logo=c%2B%2B&style=flat" alt="C++" /> &nbsp; 
-    <img src="https://img.shields.io/badge/%AD-C-darkblue?logo=c&style=flat" alt="C" />
+    <img src="https://img.shields.io/badge/%AD-C-darkgray?logo=c&style=flat" alt="C" />
 </p>
 
 <p> :smile: &nbsp; Fun Fact : &nbsp; I love building &nbsp; :hammer_and_wrench: APIs :heart:</p>
@@ -35,7 +35,7 @@
     </a> &nbsp; 
     <a href ="https://twitter.com/asnandanunni"><img alt="Twitter" src="https://img.shields.io/badge/%AD-asnandanunni-dodgerblue?logo=twitter&style=flat" />
     </a> &nbsp; 
-    <a href ="http://www.linkedin.com/in/nandanunni"><img alt="LinkedIn" src="https://img.shields.io/badge/%AD-nandanunni-blue?logo=linkedin&style=flat" />
+    <a href ="http://www.linkedin.com/in/asnandanunni"><img alt="LinkedIn" src="https://img.shields.io/badge/%AD-nandanunni-blue?logo=linkedin&style=flat" />
     </a> &nbsp; 
 </p>
 
