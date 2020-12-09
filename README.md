@@ -14,13 +14,14 @@
 </p>
 
 <p> :gem: &nbsp; Ask me about &nbsp; 
+    <img src="https://img.shields.io/badge/%AD-Python-blue?logo=python&style=flat" alt="Python" /> ,&nbsp; 
     <img src="https://img.shields.io/badge/%AD-Django-darkgreen?logo=django&style=flat" alt="Django" /> &nbsp; and &nbsp; 
-    <img src="https://img.shields.io/badge/%AD-Python-blue?logo=python&style=flat" alt="Python" />
+    <img src="https://img.shields.io/badge/%AD-React-skyblue?logo=react&style=flat" alt="React" />
 </p>
 
-<p> :fire: &nbsp; I'm good at &nbsp; 
+<p> :fire: &nbsp; I know &nbsp; 
     <img src="https://img.shields.io/badge/%AD-JavaScript-yellow?logo=javascript&style=flat" alt="JavaScript" /> &nbsp; 
-    <img src="https://img.shields.io/badge/%AD-React-skyblue?logo=react&style=flat" alt="React" /> &nbsp; 
+    <img src="https://img.shields.io/badge/%AD-Flutter-dodgerblue?logo=flutter&style=flat" alt="Flutter" /> &nbsp; 
     <img src="https://img.shields.io/badge/%AD-Go-blue?logo=go&style=flat" alt="Go" /> &nbsp; 
     <img src="https://img.shields.io/badge/%AD-C%2B%2B-mediumvioletred?logo=c%2B%2B&style=flat" alt="C++" /> &nbsp; 
     <img src="https://img.shields.io/badge/%AD-C-darkgray?logo=c&style=flat" alt="C" />
@@ -41,8 +42,8 @@
 
 ## :bar_chart: &nbsp; My GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandan-unni&show_icons=true&theme=algolia&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandan-unni&theme=algolia&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandan-unni&show_icons=true&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandan-unni&theme=dark&layout=compact&hide_border=true" />
 </p><br /><hr />
 
 <h2 align="center"> :arrow_down: :arrow_down_small: &nbsp; Some of my projects &nbsp; :arrow_down_small: :arrow_down: </h2>
