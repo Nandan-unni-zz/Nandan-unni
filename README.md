@@ -6,21 +6,21 @@
 </p><br />
 
 <p> :satellite: &nbsp; I'm currently working on an 
-    <b><a href="https://github.com/nandan-unni/instagram-api-clone">Instagram API Clone</a> Project</b> 
-    using <b>Django Rest Framework</b>
+    <b><a href="https://github.com/Nandan-unni/Twitter-Clone">Twitter Clone</a> Project</b> 
+    using <b>MERN Stack</b>
 </p>
 
-<p> :seedling: &nbsp; I'm currently learning Data Structures, Algorithms and REST API Testing
+<p> :seedling: &nbsp; I'm currently learning Data Structures and Algorithms.
 </p>
 
 <p> :gem: &nbsp; Ask me about &nbsp; 
     <img src="https://img.shields.io/badge/%AD-Python-blue?logo=python&style=flat" alt="Python" /> ,&nbsp; 
-    <img src="https://img.shields.io/badge/%AD-Django-darkgreen?logo=django&style=flat" alt="Django" /> &nbsp; and &nbsp; 
+    <img src="https://img.shields.io/badge/%AD-Django-darkgreen?logo=django&style=flat" alt="Django" /> ,&nbsp;  
+    <img src="https://img.shields.io/badge/%AD-JavaScript-yellow?logo=javascript&style=flat" alt="JavaScript" /> ,&nbsp; 
     <img src="https://img.shields.io/badge/%AD-React-skyblue?logo=react&style=flat" alt="React" />
 </p>
 
 <p> :fire: &nbsp; I know &nbsp; 
-    <img src="https://img.shields.io/badge/%AD-JavaScript-yellow?logo=javascript&style=flat" alt="JavaScript" /> &nbsp; 
     <img src="https://img.shields.io/badge/%AD-Flutter-dodgerblue?logo=flutter&style=flat" alt="Flutter" /> &nbsp; 
     <img src="https://img.shields.io/badge/%AD-Go-blue?logo=go&style=flat" alt="Go" /> &nbsp; 
     <img src="https://img.shields.io/badge/%AD-C%2B%2B-mediumvioletred?logo=c%2B%2B&style=flat" alt="C++" /> &nbsp; 
@@ -30,13 +30,17 @@
 <p> :smile: &nbsp; Fun Fact : &nbsp; I love building &nbsp; :hammer_and_wrench: APIs :heart:</p>
 
 <p> :postbox: &nbsp; Contact Me : &nbsp; 
-    <a href ="mailto:asnqln@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/%AD-asnqln@gmail.com-red?logo=gmail&style=flat" />
+    <a href ="mailto:asnqln@gmail.com">
+        <img alt="Gmail" src="https://img.shields.io/badge/%AD-asnqln@gmail.com-red?logo=gmail&style=flat" />
     </a> &nbsp; 
-    <a href ="https://www.instagram.com/u.n.n.i._"><img alt="Instagram" src="https://img.shields.io/badge/%AD-u.n.n.i.__-darkmagenta?logo=instagram&style=flat" />
+    <a href ="https://www.instagram.com/u.n.n.i._">
+        <img alt="Instagram" src="https://img.shields.io/badge/%AD-u.n.n.i.__-darkmagenta?logo=instagram&style=flat" />
     </a> &nbsp; 
-    <a href ="https://twitter.com/asnandanunni"><img alt="Twitter" src="https://img.shields.io/badge/%AD-asnandanunni-dodgerblue?logo=twitter&style=flat" />
+    <a href ="https://twitter.com/asnandanunni">
+        <img alt="Twitter" src="https://img.shields.io/badge/%AD-asnandanunni-dodgerblue?logo=twitter&style=flat" />
     </a> &nbsp; 
-    <a href ="http://www.linkedin.com/in/asnandanunni"><img alt="LinkedIn" src="https://img.shields.io/badge/%AD-nandanunni-blue?logo=linkedin&style=flat" />
+    <a href ="http://www.linkedin.com/in/asnandanunni">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/%AD-nandanunni-blue?logo=linkedin&style=flat" />
     </a> &nbsp; 
 </p>
 
