@@ -5,10 +5,7 @@
     currently doing BTech :man_student: at Cochin University of Science and Technology :school: , Kerala
 </p><br />
 
-<p> :satellite: &nbsp; I'm currently working on an 
-    <b><a href="https://github.com/Nandan-unni/Twitter-Clone">Twitter Clone</a> Project</b> 
-    using <b>MERN Stack</b>
-</p>
+<p> :satellite: &nbsp; I'm currently working on a UPI payments app.</p>
 
 <p> :seedling: &nbsp; I'm currently learning Data Structures and Algorithms.
 </p>
